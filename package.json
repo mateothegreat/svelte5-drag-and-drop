@@ -1,6 +1,6 @@
 {
   "name": "@mateothegreat/svelte5-drag-and-drop",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "svelte": "./index.js",
   "main": "./index.js",
